@@ -1,0 +1,1 @@
+const getBody = document.querySelector('body')
